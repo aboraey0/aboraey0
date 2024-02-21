@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aboraey0
-- 👀 I’m interested in Robotics @ Machine learning
-- 🌱 I’m currently learning Robot oberating system ROS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine learning
+- 🌱 I’m currently learning ML Modules 
+- 💞️ I’m looking to collaborate on Ml projects 
 - 📫 How to reach me aboraey771@gmail.com
 
 <!---
